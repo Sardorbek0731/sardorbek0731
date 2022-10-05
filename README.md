@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Sardorbek Olimov
 
 <!--
 **sardorbek0731/sardorbek0731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
