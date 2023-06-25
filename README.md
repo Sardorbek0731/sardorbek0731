@@ -1,6 +1,6 @@
 ### Hi, my name is Sardorbek Olimov
 
-👨‍🎓 Don't stop learning because life never stops teaching
+### 👨‍🎓 Don't stop learning because life never stops teaching
 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning
