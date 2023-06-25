@@ -9,8 +9,7 @@
 - 📫 How to reach me: https://t.me/Sardorbek0731
 
               Skills :                                                  
-                 ![image](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/c2acdf65-2147-4cb9-a28c-942e891c5e85)
- Html
+                 ![image](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/de122a0b-6711-4990-b52b-0f1a606c6cc1) ### Html
                  - CSS
                  - Sass
                  - Bootstrap
