@@ -8,9 +8,8 @@
 - 👯 I’m looking to collaborate on                            
 - 📫 How to reach me: https://t.me/Sardorbek0731
 
-              Skills :                                                  
-![html-5](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/c135dc91-053e-4060-8d87-9879430d14b9)
- Html
+Skills :                                                  
+  ![html-5](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/0aa1dadf-dd25-4945-a5dd-ba7079df80ae) Html
                  - CSS
                  - Sass
                  - Bootstrap
