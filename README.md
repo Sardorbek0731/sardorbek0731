@@ -10,7 +10,7 @@
 
 ### Skills :                                                  
   ![html-5](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/dea4ac19-141f-44c7-9aff-251888e1f575) Html
-                 - CSS
+  ![css-3](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/9741a6a8-42d3-4511-99d3-413e9aa91545) CSS
                  - Sass
                  - Bootstrap
                  - JavaScript
