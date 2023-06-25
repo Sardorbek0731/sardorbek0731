@@ -3,9 +3,14 @@
 
 ### 👨‍🎓 Don't stop learning because life never stops teaching
 
-- 🔭 I’m currently working on                                 Skills :
-- 🌱 I’m currently learning                                    - Html
-- 👯 I’m looking to collaborate on                             - CSS
-- 📫 How to reach me: https://t.me/Sardorbek0731               - Sass
-                                                                - Bootstrap
-                                                                - JavaScript
+- 🔭 I’m currently working on                                 
+- 🌱 I’m currently learning                                   
+- 👯 I’m looking to collaborate on                            
+- 📫 How to reach me: https://t.me/Sardorbek0731
+
+              Skills :                                                  
+                 - Html
+                 - CSS
+                 - Sass
+                 - Bootstrap
+                 - JavaScript
