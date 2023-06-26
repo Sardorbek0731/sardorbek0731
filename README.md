@@ -1,5 +1,4 @@
-![code](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/f25d2552-373d-4318-a3be-9f84c251982b)
-### Hi, my name is Sardorbek Olimov
+![code](https://github.com/Sardorbek0731/sardorbek0731/assets/98644551/f25d2552-373d-4318-a3be-9f84c251982b) ### Hi, my name is Sardorbek Olimov
 
 ### 👨‍🎓 Don't stop learning because life never stops teaching
 
