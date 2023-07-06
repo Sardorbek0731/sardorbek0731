@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sardorbek Olimov</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3>Hi 👋, I'm Sardorbek Olimov</h3>
+<h3>Frontend Developer</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=sardorbek0731&label=Profile%20views&color=0e75b6&style=flat" alt="sardorbek0731" /> </p>
 
